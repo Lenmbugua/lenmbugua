@@ -1,7 +1,7 @@
 
 <!-- Greet Line Comes Here -->
 <p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=5BBCFF&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=5BBCFF&size=22&center=true&lines=Hey👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
 </p>
 
 <!-- Coloured Line -->
